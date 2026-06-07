@@ -2,7 +2,7 @@
 
 ---
 My name is Eugie. I like Mandalorian and Grogu as well as Pokémon Plush.\
-I am aspring AI Engineer full-time job in U.S.
+I am aspring AI Engineer full-time job across the world.
 
 Some of my background:\
 ex SDE intern @Microsoft \
