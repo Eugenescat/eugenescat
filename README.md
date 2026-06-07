@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Eugenescat/eugenescat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+My name is Eugie. I like Mandalorian and Grogu as well as Pokémon Plush.\
+I am aspring AI Engineer full-time job in U.S.
 
-Here are some ideas to get you started:
+Some of my background:\
+ex SDE intern @Microsoft \
+Ongoing OMSCS @Georgia Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2023 ~ 2026: MS Computer Science, Northeastern University (Boston)
+
+2021 ~ 2023: Associate Attorney, Global Law Office (Shanghai)
+
+2017 ~ 2021: LLB, Shanghai Jiao Tong University
+
+Contact: eugieyan@gmail.com\
+Personal Site: eugenescat.github.io/en/
