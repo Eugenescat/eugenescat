@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ---
-My name is Eugie. I like Mandalorian and Grogu as well as Pokémon Plush.\
+My name is Eugie. I like Mandalorian & Grogu and Pokémon Plush.\
 
 Some of my background:\
 ex SDE intern @Microsoft \
